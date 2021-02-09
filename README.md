@@ -7,7 +7,6 @@ Run this program using the gcc compiler
 ```
 $ gcc smallish.c
 $ ./a.out
-
 ```
 
 
