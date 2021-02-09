@@ -1,4 +1,4 @@
-In order to compile the program, type the following commands into the terminal
+#UNIX Shell in C
+Recreated UNIX shell using C
 
-gcc -o smallish smallish.c
-./smallish
+
