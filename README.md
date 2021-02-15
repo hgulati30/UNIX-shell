@@ -5,7 +5,7 @@ Recreated UNIX Shell using C
 Run this program using the gcc compiler
 
 ```
-$ gcc smallish.c
+$ gcc main.c
 $ ./a.out
 ```
 
